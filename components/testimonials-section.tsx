@@ -29,7 +29,7 @@ const testimonials = [
   {
     name: "Juliana Costa",
     role: "Coach de Carreira",
-    content: "O passo a passo e tao claro que consegui aplicar mesmo trabalhando em tempo integral. Recomendo muito!",
+    content: "O passo a passo e tao claro que consegui aplicar mesmo trabalhando em tempo integral. Recomendo!",
     initials: "JC",
   },
   {
